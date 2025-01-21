@@ -5,4 +5,4 @@
 
 ---|---|---|---|---|---
 
-| [Анализ сетей городских аптек](https://github.com/Hristofor-Pozdeev/portfolio_sql/tree/f6111c80ea3d644b82019124fa392fde915cd44c/city_pharmacy_chain_research)|  Фармацевтика и розничная торговля | Анализ продаж сетей городских аптек. Сравнение поставщиков по объемам закупок. Изучение продаж по категориям товаров. Изучение клиентов по географии и лайфтайму. Построение гистограмм и графиков. | *WITH, AS, SELECT, COUNT, JOIN ON, WHERE, GROUP BY, ORDER BY, DESC, LIMIT, UNION ALL* | 
+| [Анализ сетей городских аптек](https://github.com/Hristofor-Pozdeev/portfolio_sql/tree/f6111c80ea3d644b82019124fa392fde915cd44c/city_pharmacy_chain_research)|  Фармацевтика и розничная торговля | Анализ продаж сетей городских аптек. Сравнение клиентов аптек по различным параметрам. Изучение продаж по категориям товаров. Исследование товаров по категориям и наименованиям. | *WITH, AS, SELECT, COUNT, JOIN ON, WHERE, GROUP BY, ORDER BY, DESC, LIMIT, UNION ALL* | 
